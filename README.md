@@ -42,3 +42,5 @@ SHA256 hash embedded in the corresponding `check_flag.py`. Use these to
 regression-test the participant package stays solvable after any edits
 (re-run the solver snippets in each SOLUTION.md and confirm the flag
 matches before redistributing).
+
+## All the Best
